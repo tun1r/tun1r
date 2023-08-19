@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tun1r
-- 👀 I’m interested in python and making GUIS in it.
-- 🌱 I’m currently learning kinter
+- 👀 I’m interested in C and making GUIS in it.
+- 🌱 I’m currently C
 - 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me- dont.
 
