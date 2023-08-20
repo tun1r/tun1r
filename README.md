@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @tun1r
-- 👀 I’m interested in C and making GUIS in it.
-- 🌱 I’m currently C
-- 💞️ I’m looking to collaborate on nothing.
-- 📫 How to reach me- dont.
+
 
 <!---
 tun1r/tun1r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
